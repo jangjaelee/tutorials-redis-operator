@@ -11,6 +11,8 @@
 &nbsp;
 
 ## Agenda
-### [**1) Introduction to Redis / Redis Operator**](https://github.com/jangjaelee/tutorials-prometheus/wiki/1\)-Introduction-to-Prometheus)
-### [**2) Installing Prometheus on Kubernetes**](https://github.com/jangjaelee/tutorials-prometheus/wiki/2\)-Installing-Prometheus-on-Kubernetes)
-### [**3) Prometheus Operator for Beginner**]
+### [**1) Introduction to Redis / Redis Operator**](https://github.com/jangjaelee/tutorials-redis-operator/wiki/1\)-Introduction-to-Redis---Redis-Operator)
+### [**2) Redis Operator for Redis Cluster (by opstree)**](https://github.com/jangjaelee/tutorials-redis-operator/wiki/2\)-Redis-Operator-for-Redis-Cluster-(by-opstree))
+### [**3) Redis Operator API (by opstree)**](https://github.com/jangjaelee/tutorials-redis-operator/wiki/3\)-Redis-Operator-API-(by-opstree))
+### **4) Redis Operator for Sentinel (by spotahome)** (예정)
+### **5) Redis Operator API (by spotahome)** (예정)
