@@ -13,6 +13,6 @@
 ## Agenda
 ### [**1) Introduction to Redis / Redis Operator**](https://github.com/jangjaelee/tutorials-redis-operator/wiki/1\)-Introduction-to-Redis---Redis-Operator)
 ### [**2) Redis Operator for Redis Cluster (by opstree)**](https://github.com/jangjaelee/tutorials-redis-operator/wiki/2\)-Redis-Operator-for-Redis-Cluster-(by-opstree))
-### [**3) Redis Operator API (by opstree) - (작성중)**](https://github.com/jangjaelee/tutorials-redis-operator/wiki/3\)-Redis-Operator-API-(by-opstree))
+### [**3) Redis Operator API (by opstree) - (API Spec 분석 및 작성중)**](https://github.com/jangjaelee/tutorials-redis-operator/wiki/3\)-Redis-Operator-API-(by-opstree))
 ### **4) Redis Operator for Sentinel (by spotahome)** (예정)
 ### **5) Redis Operator API (by spotahome)** (예정)
