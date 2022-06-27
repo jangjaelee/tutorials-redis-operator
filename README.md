@@ -15,4 +15,4 @@
 ### [**2) Redis Operator for Redis Cluster (by opstree)**](https://github.com/jangjaelee/tutorials-redis-operator/wiki/2\)-Redis-Operator-for-Redis-Cluster-(by-opstree))
 ### [**3) Redis Operator API Docs (by opstree)**](https://github.com/jangjaelee/tutorials-redis-operator/wiki/3\)-Redis-Operator-API-Docs-(by-opstree))
 ### [**4) Redis Operator for Sentinel (by spotahome)**](https://github.com/jangjaelee/tutorials-redis-operator/wiki/4\)-Redis-Operator-for-Sentinel-(by-spotahome))
-### [**5) Redis Operator API Docs(by spotahome)**](https://github.com/jangjaelee/tutorials-redis-operator/wiki/5\)-Redis-Operator-API-Docs-(by-spotahome))
+### [**5) Redis Operator API Docs (by spotahome)**](https://github.com/jangjaelee/tutorials-redis-operator/wiki/5\)-Redis-Operator-API-Docs-(by-spotahome))
