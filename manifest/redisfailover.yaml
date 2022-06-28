@@ -6,7 +6,7 @@ spec:
   auth:
     secretPath: redis-auth
   redis:
-    image: redis:6.2.7
+    image: redis:6.2.7-alpine
     imagePullPolicy: IfNotPresent
     replicas: 3
     resources:
@@ -40,7 +40,7 @@ spec:
       - "client-output-buffer-limit slave 1000000000 1000000000 0"
       - "client-output-buffer-limit pubsub 33554432 8388608 60"
   sentinel:
-    image: redis:6.2.7
+    image: redis:6.2.7-alpine
     imagePullPolicy: IfNotPresent
     replicas: 3
     resources:
