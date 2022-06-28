@@ -81,9 +81,9 @@ spec:
       image: leominov/redis_sentinel_exporter:1.7.1
       imagePullPolicy: Always
       resources:
-        limits:
+        requests:
           cpu: 100m
           memory: 128Mi
-        requests:
+        limits:
           cpu: 100m
           memory: 128Mi
