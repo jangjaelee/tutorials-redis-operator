@@ -78,26 +78,12 @@ spec:
       - "failover-timeout 3000"
     exporter:
       enabled: true
-      image: oliver006/redis_exporter:v1.43.0-alpine
+      image: leominov/redis_sentinel_exporter:1.7.1
       imagePullPolicy: Always
       resources:
+        limits:
+          cpu: 100m
+           memory: 128Mi
         requests:
           cpu: 100m
           memory: 128Mi
-        limits:
-          cpu: 100m
-          memory: 128Mi
-      args:
-        - --web.telemetry-path
-        - /metrics
-      env:
-        - name: REDIS_EXPORTER_INCL_SYSTEM_METRICS
-          value: "true"
-        - name: REDIS_EXPORTER_PING_ON_CONNECT
-          value: "true"
-        - name: REDIS_EXPORTER_INCL_CONFIG_METRICS
-          value: "true"
-        - name: REDIS_EXPORTER_EXPORT_CLIENT_LIST
-          value: "true"
-        - name: REDIS_EXPORTER_LOG_FORMAT
-          value: txt
